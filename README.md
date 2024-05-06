@@ -2,9 +2,10 @@
 Este repositório contém as soluções para os exercícios do 4º bimestre da disciplina de Algoritmos e Estruturas de Dados. Aborda diversos conceitos, incluindo árvores Trie, Patricia, Ternary Search Trie, introdução a grafos e técnicas de organização de arquivos.
 
 ## Estrutura do Repositório
-/Trie: Implementações relacionadas à árvore Trie.  
-/Patricia: Soluções envolvendo a estrutura de dados Patricia.  
-/TernarySearchTrie: Implementações da árvore Ternary Search Trie.  
+/Trie:
+    * R-Way: Implementaçao de Inserção, remoção, impressão e busca.
+    * Ternary Search Trie: Implementação de inserção e busca.  
+  
 /Grafos: Introdução a grafos e algoritmos relacionados.  
 /OrganizacaoArquivo: Exemplos de técnicas de organização de arquivos.  
 
