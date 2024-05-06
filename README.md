@@ -3,7 +3,7 @@ Este repositório contém as soluções para os exercícios do 4º bimestre da d
 
 ## Estrutura do Repositório
 /Trie:
-    * R-Way: Implementaçao de Inserção, remoção, impressão e busca.
+    * R-Way: Implementaçao de Inserção, remoção, impressão e busca.  
     * Ternary Search Trie: Implementação de inserção e busca.  
   
 /Grafos: Introdução a grafos e algoritmos relacionados.  
